@@ -1,0 +1,21 @@
+﻿Построение начато 02.11.2022 16:09:39.
+     1>Проект "C:\Users\Rufus\Documents\Visual Studio 2012\MetodGodynov\GodynovEx\GodynovEx\GodynovEx.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\vs12\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt ..\C1DProblem.cpp
+         C1DProblem.cpp
+       Link:
+         D:\vs12\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Rufus\Documents\Visual Studio 2012\MetodGodynov\GodynovEx\x64\Debug\GodynovEx.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\local\boost_1_69_0\lib64-msvc-11.0" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Rufus\Documents\Visual Studio 2012\MetodGodynov\GodynovEx\x64\Debug\GodynovEx.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Rufus\Documents\Visual Studio 2012\MetodGodynov\GodynovEx\x64\Debug\GodynovEx.lib" /MACHINE:X64 x64\Debug\C1DField.obj
+         x64\Debug\C1DMethod.obj
+         x64\Debug\C1DProblem.obj
+         x64\Debug\COutput.obj
+         x64\Debug\F1DSimulation.obj
+         x64\Debug\FEOS.obj
+         x64\Debug\main.obj
+         x64\Debug\_matrix4.obj
+         x64\Debug\_vector4.obj
+         GodynovEx.vcxproj -> C:\Users\Rufus\Documents\Visual Studio 2012\MetodGodynov\GodynovEx\x64\Debug\GodynovEx.exe
+     1>Построение проекта "C:\Users\Rufus\Documents\Visual Studio 2012\MetodGodynov\GodynovEx\GodynovEx\GodynovEx.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.43
